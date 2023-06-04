@@ -1,6 +1,0 @@
-fastapi
-HTTPException
-HTTPBasic
-passlib
-pymongo
-uvicorn
