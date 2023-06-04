@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'senproIDS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10E8BE5F96344FBEA73AF796F310BC51 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B784FA0F96B34697B1900F6AA15202DB }}
